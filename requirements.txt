@@ -1,0 +1,5 @@
+Django-3.1.6
+
+--deve autopep8
+
+--deve flake8
